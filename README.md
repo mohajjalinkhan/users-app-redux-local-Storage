@@ -1,6 +1,6 @@
 # React Native Expo Project
 
-This is a mobile application built using **React Native Expo**. It leverages **React Navigation**, **TailwindCSS (NativeWind)**, **Redux Toolkit**, **Redux Persist**, and **AsyncStorage** to create a seamless and efficient user experience for both Android and IOS.
+This is a mobile application built using **React Native Expo**. It leverages **React Navigation**, **TailwindCSS (NativeWind)**, **Formik and Yup Validation**, **Redux Toolkit**, **Redux Persist**, and **AsyncStorage** to create a seamless and efficient user experience for both Android and IOS.
 
 ## Features
 - Built with **React Native Expo** for fast development and deployment.
