@@ -5,7 +5,7 @@
 
 # React Native Expo Project
 
-This is a mobile application built using **React Native Expo**. It leverages **React Navigation**, **TailwindCSS (NativeWind)**, **Redux Toolkit**, **Redux Persist**, and **AsyncStorage** to create a seamless and efficient user experience.
+This is a mobile application built using **React Native Expo**. It leverages **React Navigation**, **TailwindCSS (NativeWind)**, **Redux Toolkit**, **Redux Persist**, and **AsyncStorage** to create a seamless and efficient user experience for both Android and IOS.
 
 ## Features
 - Built with **React Native Expo** for fast development and deployment.
@@ -13,7 +13,7 @@ This is a mobile application built using **React Native Expo**. It leverages **R
 - Styled using **TailwindCSS (NativeWind)** for flexible and responsive UI.
 - **Redux Toolkit** for state management.
 - **Redux Persist** for persisting application state across sessions.
-- **AsyncStorage** for local storage and caching of data.
+- **AsyncStorage** is used for local data storage.
 - Perform **CRUD operations** to manage user information.
 
 ## Installation
@@ -43,12 +43,10 @@ Make sure you have the following installed:
 ```
 /your-repo
 │── /src
-│   ├── /components  # Reusable UI components
+│   ├── /components/navigation  # Stack navigator
 │   ├── /screens     # Application screens
-│   ├── /navigation  # Stack and tab navigators
 │   ├── /redux       # Redux slices and store
-│   ├── /utils       # Helper functions
-│── App.js           # Entry point of the application
+│── App.jsx           # Entry point of the application
 │── package.json     # Dependencies and scripts
 │── tailwind.config.js  # TailwindCSS configuration
 │── README.md        # Project documentation
@@ -63,26 +61,7 @@ Make sure you have the following installed:
 - **Redux Persist**: State persistence.
 - **AsyncStorage**: Local storage solution.
 
-## Contributing
-1. Fork the repository.
-2. Create a new branch (`feature-branch`).
-3. Commit your changes.
-4. Push to the branch and create a Pull Request.
-
-## License
-This project is licensed under the **MIT License**.
-
-## Contact
-For any inquiries or contributions, feel free to reach out at [your-email@example.com].
-
-
-
-
-
-
-- Created users Data App which can store data localy,
-  <h2>Tech Stack</h2>
-  
+  <h2>Tech Stack</h2>=
     
   * React Native Expo
   * React Navigation
