@@ -29,8 +29,8 @@ Make sure you have the following installed:
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/mohajjalinkhan/users-app-redux-local-Storage.git
+   cd /users-app-redux-local-Storage.git
    ```
 2. Install dependencies:
    ```sh
@@ -38,7 +38,9 @@ Make sure you have the following installed:
    ```
 3. Start the development server:
    ```sh
-   expo start
+   npx expo start
+   or
+   npm start
    ```
 
 ## Project Structure
