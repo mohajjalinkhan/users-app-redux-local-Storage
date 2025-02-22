@@ -63,6 +63,7 @@ Make sure you have the following installed:
 - **React Navigation**: Manages app navigation.
 - **NativeWind**: TailwindCSS for styling in React Native.
 - **Redux Toolkit**: State management.
+- **Formik and Yup**: form validation
 - **Redux Persist**: State persistence.
 - **AsyncStorage**: Local storage solution.
 
@@ -70,7 +71,8 @@ Make sure you have the following installed:
     
   * React Native Expo
   * React Navigation
-  * Redux-Tool-Kit 
+  * Redux-Tool-Kit
+  * Fromik and Yup
   * TailwindCSS/ Nativewind
   * Redux Persist
   * AsyncStorage
