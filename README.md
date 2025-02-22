@@ -42,7 +42,6 @@ Make sure you have the following installed:
    or
    npm start
    ```
-
 ## Project Structure
 ```
 /users-app-redux-local-Storage
