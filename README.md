@@ -66,7 +66,7 @@ Make sure you have the following installed:
 - **Redux Persist**: State persistence.
 - **AsyncStorage**: Local storage solution.
 
-  <h2>Tech Stack</h2>=
+  <h2>Tech Stack</h2>
     
   * React Native Expo
   * React Navigation
