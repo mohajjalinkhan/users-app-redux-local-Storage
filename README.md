@@ -43,7 +43,8 @@ Make sure you have the following installed:
 
 ## Project Structure
 ```
-/your-repo
+/users-app-redux-local-Storage
+│── Assets # for App Icon and Splash screen Icon
 │── /src
 │   ├── /components/navigation  # Stack navigator
 │   ├── /screens     # Application screens
