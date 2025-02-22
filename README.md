@@ -9,7 +9,7 @@
     
   * React Native Expo
   * React Navigation
-  * Redux-Tool-Kit ![image](https://github.com/user-attachments/assets/572f1ff7-2d9a-42e6-9b03-16f94be47bec)
+  * Redux-Tool-Kit 
   * TailwindCSS/ Nativewind
   * Redux Persist
   * AsyncStorage
